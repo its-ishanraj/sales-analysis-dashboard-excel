@@ -38,7 +38,7 @@ The output is a single interactive dashboard that lets stakeholders filter by mo
 
 ## 4. Dataset Overview
 
-Three linked tables covering 2023 activity: **Customers** (~100 records: ID, name, city, contact details), **Orders** (~1,000 records: order and delivery dates/times, quantity, occasion, revenue), and **Products** (~70 records: product name, category, price, associated occasion).
+Three linked tables covering annual activity: **Customers** (~100 records: ID, name, city, contact details), **Orders** (~1,000 records: order and delivery dates/times, quantity, occasion, revenue), and **Products** (~70 records: product name, category, price, associated occasion).
 
 ## 5. Project Workflow
 
